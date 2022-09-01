@@ -11,7 +11,6 @@ output:
 
 ## Course description 
 
-
 This course aims to introduce 21st century econometric analysis to business students. It provides tools to infer meaningful information from data using descriptive and regression analyses. At the end of the semester, I expect you to be familiar with **R** and **RStudio** interface, basic data manipulation, obtaining and interpreting sample statistics, conduct meaningful regression analysis and prediction. 
 
 Importantly, you should have a clear understanding of the distinction between correlation and causation and in what conditions the former implies the latter. Randomization for causality will be a central discussion topic in the second half of the semester. We will learn about designing an experimental study, validating the design, and the conditions to establish a causal relationship. This course includes a detailed section on the limitations of empirical studies with a specific focus on randomization approach to causal inference.    
@@ -38,11 +37,12 @@ Importantly, you should have a clear understanding of the distinction between co
 * **Instructor**: Onur Altındağ
 * **Course materials**:  
     * [Introduction to Econometrics by James Stock and Watson](https://www.amazon.com/Introduction-Econometrics-Stock-James-Watson/dp/935286350X) 
+    * [Hand-written lecture notes from a previous semester](https://www.dropbox.com/s/e5c8qax19lkrrn3/EC%20282%20FALL%202020.pdf?dl=0)
                      
 * **Useful Videos for learning R** https://www.nickchk.com/videos.html#rstats
 * **Useful Videos of learning Econometrics** https://www.nickchk.com/videos.html#metrics  
 * **Personal web** :   [www.onuraltindag.info](https://www.onuraltindag.info/)
-* **Office**: AAC 181 - *currently NA due to pandemic*
+* **Office**: AAC 181 
 * **Email**: `oaltindag@bentley.edu`    
 
 
@@ -52,24 +52,24 @@ Please go to [my calendar](https://calendly.com/oaltindag/sample-20min) and book
 
 ### Important Dates 
 
-* Midterm I :  **Feb 28, 2022**
-* Midterm II:  **Mar 31, 2022**
-* Final exam:      **May 5, 2022**
+- **Oct 6, 2022**
+- **Nov 10, 2022** 
+* Final exam:      **Dec 16, 2022 - 2022,  08:00AM**
 
 #### Homework assignment deadlines  
 
-* Assignment 1:     **Feb 20, 2022** 
-* Assignment 2:     **Mar 06, 2022** 
-* Assignment 3:     **Mar 20, 2022** 
-* Assignment 4:     **Apr 06, 2022** 
-* Assignment 5:     **Apr 17, 2022** 
+* Assignment 1:     **Oct 16, 2022** 
+* Assignment 2:     **Oct 30, 2022** 
+* Assignment 3:     **Nov 13, 2022** 
+* Assignment 4:     **Nov 27, 2022** 
+* Assignment 5:     **Dec 11, 2022** 
 
 
 ### Evaluation
 
 - First Midterm:      20%
 - Second Midterm:     25%
-- Final exam:         30%
+- Final Exam:         30%
 - Assignments + participation :        25%
 
 ### Software and Collaborative Work
@@ -91,10 +91,8 @@ When learning R, arguably the most important skill that you need to acquire is t
     
 #### **Low-stake assessments**
 
-* **Weekly homework assignments:** The homework assignments are posted on the **GitHub** web page with the deadlines. They can be completed in groups of **maximum two** students but each person should post separate answers through **Black Board**. **DO NOT** try to submit the homework assignments on last minute as the system will close after the deadline and I will not accept it. Do the best you can with these assignments, work consistently, do not free ride on your friends, and do not cheat. The data sets that each of you will receive are different so I will not tolerate if I see any copied/pasted answers.  
-
-
-* **Collaborative participation to [GitHub](https://github.com/)  and classroom discussions:** You must sign up for a free account on [GitHub](https://github.com/). Github is an eco-system for web development and version control using Git. You will only need to use it to download the course material,  `issues` and `discussions` tabs through either creating an issue to ask or answer a question on your or your peer's empirical analysis, homework assignment, or anything related to econometric analysis. I expect you to actively participate to the discussion on GitHub as it will determine your participation grade. Both asking and answering a question in a meaningful way contributes to your participation grade. To sum, you expect you to actively participate to the online community discussions on GitHub. I will do my best to facilitate the discussion yet I need your active support to make this environment useful for all.           
+* **Homework assignments:** The homework assignments are posted on the **GitHub** web page with the deadlines. Github is an eco-system for web development and version control using Git. You will only need to use it to download the course material and `issues` tabs that I post code blurbs and data.  The homework assignments can be completed in groups of **maximum two** students but each person should post separate answers through **Black Board**. **DO NOT** try to submit the homework assignments on last minute as the system will close after the deadline and I will not accept it. Do the best you can with these assignments, work consistently, do not free ride on your friends, and do not cheat. The data sets that each of you will receive are different so I will not tolerate if I see any copied/pasted answers.  
+     
     
 
     
@@ -163,8 +161,9 @@ Students are expected to attend classes synchronously despite potential time zon
 ### Tentative Schedule 
 
 
-**Weeks 1-2**     
-**Jan 24-Feb 3**
+**Weeks 1-2**  
+**Sep 6-15**    
+
 
 * **Introduction to the course, logistics, syllabus, expectations and pap-talk.**
 
@@ -174,11 +173,9 @@ Students are expected to attend classes synchronously despite potential time zon
 * **Random variables, sampling variation, sample mean, variance, distribution of random variables** 
 * *Readings:* Chapter 2 of Stock and Watson:  1. Random sampling and the distribution of the sample average, 2. Large-sample approximations to sampling distributions
 
-* **Econometrics Research Seminar** 
-
 
 **Weeks 3-4**     
-**Feb 7-Feb 17**      
+**Sep 19-29** 
 
 * **Central limit theorem**
 * **Hypothesis testing concerning the sample mean and confidence intervals**
@@ -191,8 +188,8 @@ Students are expected to attend classes synchronously despite potential time zon
 * *Videos:*[The Bivariate OLS]([https://www.youtube.com/watch?v=qcJGl0wxgaY&t=5s)
 
 
-**Weeks 5-6**     
-**Feb 21-March 3**
+**Weeks 5-6**    
+**Oct 3-14** 
 
 * **Midterm I**
 
@@ -203,8 +200,8 @@ Students are expected to attend classes synchronously despite potential time zon
 * *Videos:*[1. Regression Predictions and Residuals](https://www.youtube.com/watch?v=dstJjA8s9Do&t=4s), [2. Hyp. Testing Part 1](https://www.youtube.com/watch?v=QdtBxOJvO_E), [3. Hyp. Testing Part 2](https://www.youtube.com/watch?v=FY-Qwsk-zRM), [4. OLS in R](https://www.youtube.com/watch?v=rC-U8zaTlx4), [5. Hyp. Testing in R](https://www.youtube.com/watch?v=-J4zPwa6ZVw), 
 
 
-**Week 7**     
-**March 7-March 10**
+**Weeks 7-8**     
+**Oct 17-27**
 
 * **Endogeneity in Ordinary Least Squares** 
 
@@ -215,7 +212,7 @@ Students are expected to attend classes synchronously despite potential time zon
 * *Videos:*[1. Endogeneity in OLS](https://www.youtube.com/watch?v=Vv1VKKKhS3Y), [2. Controlling for X](https://www.youtube.com/watch?v=Ba2Nhn4co88&t=62s), [3. Causal Diagrams](https://www.youtube.com/watch?v=bEVrJlTdQ98) 
 
 **Weeks 9-10**     
-**March 21-March 31**
+**Oct 31-Nov 10**
 
 * **Multivariate Regression** 
 
@@ -226,8 +223,8 @@ Students are expected to attend classes synchronously despite potential time zon
 * *Videos:* [1. Multivariate regression in R](https://www.youtube.com/watch?v=YvJE4aD7tr8)
 
 
-**Weeks 11-12**    
-**April 4-14**
+**Weeks 11-12-13**    
+**Nov 14 - Nov 28**
 
 * **Binary and categorical variables** 
 
@@ -236,7 +233,7 @@ Students are expected to attend classes synchronously despite potential time zon
 * *Videos:* [1. Binary and categorical variables](https://www.youtube.com/watch?v=0ajSzAVOFmY), [2. Polynomials and Logarithms](https://www.youtube.com/watch?v=M7Tcp466hPw)
 
 **Weeks 13-14**    
-**April 18-28**
+**Dec 3-Dec 12**
 
 * **Linear probability model**   
 
