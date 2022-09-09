@@ -5,7 +5,7 @@ output:
 
 
 # Homework Assignment 4
-## Deadline: April 6, midnight 
+## Deadline: November 20, 2022  11PM 
 
 **Source:** Stock and Watson, 4th Edition, Exercise 6.1   
 

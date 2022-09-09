@@ -34,11 +34,10 @@ Importantly, you should have a clear understanding of the distinction between co
 ## Class Information 
 ### Contact
 
-* **Instructor**: Onur Altındağ
+* **Instructor**: Onur Altındağ 
 * **Course materials**:  
     * [Introduction to Econometrics by James Stock and Watson](https://www.amazon.com/Introduction-Econometrics-Stock-James-Watson/dp/935286350X) 
     * [Hand-written lecture notes from a previous semester](https://www.dropbox.com/s/e5c8qax19lkrrn3/EC%20282%20FALL%202020.pdf?dl=0)
-                     
 * **Useful Videos for learning R** https://www.nickchk.com/videos.html#rstats
 * **Useful Videos of learning Econometrics** https://www.nickchk.com/videos.html#metrics  
 * **Personal web** :   [www.onuraltindag.info](https://www.onuraltindag.info/)
@@ -171,8 +170,6 @@ Students are expected to attend classes synchronously despite potential time zon
 * *Videos*: [1. Starting out](https://www.youtube.com/watch?v=KQZtnZa70kE), [2. Basic R Programming](https://www.youtube.com/watch?v=KRjhoBSWz1o), [3. Manipulating data using dplyr](https://www.youtube.com/watch?v=32amn8jzTEQ&t=208s)  
 
 * **Random variables, sampling variation, sample mean, variance, distribution of random variables** 
-* *Readings:* Chapter 2 of Stock and Watson:  1. Random sampling and the distribution of the sample average, 2. Large-sample approximations to sampling distributions
-
 
 **Weeks 3-4**     
 **Sep 19-29** 
@@ -180,11 +177,9 @@ Students are expected to attend classes synchronously despite potential time zon
 * **Central limit theorem**
 * **Hypothesis testing concerning the sample mean and confidence intervals**
 * **Scatterplots, the sample covariance, and the sample correlation** 
-* *Readings:*: Chapter 3 of Stock and Watson: 1. Hypothesis Tests Concerning the Population Mean, 2. Confidence Intervals for the Population Mean 3. Comparing Means from Different Populations, 4. Scatter plots, the Sample Covariance, and the Sample Correlation. 
-
+* *Readings:*: Chapter 3 of Stock and Watson: 1. Hypothesis Tests Concerning the Population Mean, 2. Confidence Intervals for the Population Mean 3. Comparing Means from Different Populations, 4. Scatter plots, the Sample Covariance, and the Sample Correlation.
 
 * **Bivariate OLS Model** 
-* *Readings:* [Describing Relationships](https://theeffectbook.net/ch-DescribingRelationships.html)
 * *Videos:*[The Bivariate OLS]([https://www.youtube.com/watch?v=qcJGl0wxgaY&t=5s)
 
 
@@ -192,9 +187,7 @@ Students are expected to attend classes synchronously despite potential time zon
 **Oct 3-14** 
 
 * **Midterm I**
-
 * **OLS Prediction, Residuals, and Goodness of Fit**
-
 * **Estimate Uncertainty and Hypothesis Testing** 
 
 * *Videos:*[1. Regression Predictions and Residuals](https://www.youtube.com/watch?v=dstJjA8s9Do&t=4s), [2. Hyp. Testing Part 1](https://www.youtube.com/watch?v=QdtBxOJvO_E), [3. Hyp. Testing Part 2](https://www.youtube.com/watch?v=FY-Qwsk-zRM), [4. OLS in R](https://www.youtube.com/watch?v=rC-U8zaTlx4), [5. Hyp. Testing in R](https://www.youtube.com/watch?v=-J4zPwa6ZVw), 
@@ -204,22 +197,16 @@ Students are expected to attend classes synchronously despite potential time zon
 **Oct 17-27**
 
 * **Endogeneity in Ordinary Least Squares** 
-
 * **Identification and Control Variables** 
-
-* **Causal Diagrams** 
-
 * *Videos:*[1. Endogeneity in OLS](https://www.youtube.com/watch?v=Vv1VKKKhS3Y), [2. Controlling for X](https://www.youtube.com/watch?v=Ba2Nhn4co88&t=62s), [3. Causal Diagrams](https://www.youtube.com/watch?v=bEVrJlTdQ98) 
 
 **Weeks 9-10**     
 **Oct 31-Nov 10**
 
 * **Multivariate Regression** 
-
 * **Research Presentation** 
 
 * **Midterm II** 
-
 * *Videos:* [1. Multivariate regression in R](https://www.youtube.com/watch?v=YvJE4aD7tr8)
 
 
