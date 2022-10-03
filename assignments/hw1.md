@@ -5,7 +5,7 @@ output:
 
 
 # Homework Assignment 1
-## Deadline: October 9, 2022  11PM 
+## Deadline: October 16, 2022  11PM 
 
 **Source:** Stock and Watson, 4th Edition, Exercise 3.1   
 

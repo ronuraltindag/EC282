@@ -51,9 +51,9 @@ Please go to [my calendar](https://calendly.com/oaltindag/sample-20min) and book
 
 ### Important Dates 
 
-- **Oct 6, 2022**
-- **Nov 10, 2022** 
-* Final exam:      **Dec 16, 2022 - 2022,  08:00AM**
+- First midterm:   **Oct 6, 2022**
+- Second midterm   **Nov 10, 2022** 
+- Final exam:      **Dec 16, 2022 - 2022,  08:00AM**
 
 #### Homework assignment deadlines  
 
