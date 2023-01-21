@@ -1,19 +1,20 @@
 ---
 output:
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
+  word_document: default
 ---
 
-# EC282 FALL 2022
+# EC282 SPRING 2023
 
 ## Syllabus 
 
 ## Course description 
 
-This course aims to introduce 21st century econometric analysis to business students. It provides tools to infer meaningful information from data using descriptive and regression analyses. At the end of the semester, I expect you to be familiar with **R** and **RStudio** interface, basic data manipulation, obtaining and interpreting sample statistics, conduct meaningful regression analysis and prediction. 
+Students studying business will learn about modern econometric analysis in this course. It offers resources for applying descriptive and regression analysis to deduce useful information from data. By the end of the semester, I hope that you will be comfortable using the **R** and **RStudio** interfaces, manipulating simple data, getting and analyzing sample statistics, and performing insightful regression analysis.
 
-Importantly, you should have a clear understanding of the distinction between correlation and causation and in what conditions the former implies the latter. Randomization for causality will be a central discussion topic in the second half of the semester. We will learn about designing an experimental study, validating the design, and the conditions to establish a causal relationship. This course includes a detailed section on the limitations of empirical studies with a specific focus on randomization approach to causal inference.    
+Importantly, you should understand the distinction between correlation and causation, as well as when the former suggests the latter. Randomization for causality will be a major issue of debate. We will learn how to construct an experimental research, validate the design, and establish the prerequisites for a causal link. This course also intends to highlight the limits of empirical studies, with a particular emphasis on the randomization approach to causal inference.
 
 
 ### Knowledge and Skills
@@ -34,42 +35,28 @@ Importantly, you should have a clear understanding of the distinction between co
 ## Class Information 
 ### Contact
 
-* **Instructor**: Onur Altındağ 
-* **Course materials**:  
-    * [Introduction to Econometrics by James Stock and Watson](https://www.amazon.com/Introduction-Econometrics-Stock-James-Watson/dp/935286350X) 
-    * [Hand-written lecture notes from a previous semester](https://www.dropbox.com/s/e5c8qax19lkrrn3/EC%20282%20FALL%202020.pdf?dl=0)
-* **Useful Videos for learning R** https://www.nickchk.com/videos.html#rstats
-* **Useful Videos of learning Econometrics** https://www.nickchk.com/videos.html#metrics  
-* **Personal web** :   [www.onuraltindag.info](https://www.onuraltindag.info/)
-* **Office**: AAC 181 
-* **Email**: `oaltindag@bentley.edu`    
+## Class Information 
+
+- instructor: Onur Altındağ
+- office: AAC 181 
+- zoom (office hours/classes): https://bentley.zoom.us/j/6857316344
+- email: oaltindag@bentley.edu 
+- web: https://www.onuraltindag.info/
+- office hours: https://calendly.com/oaltindag/
 
 
 ### Office hours 
 
 Please go to [my calendar](https://calendly.com/oaltindag/sample-20min) and book a virtual office hour to meet me (20 minutes maximum). Email me if you need to talk to me urgently or there is no availability on my calendar. 
 
-### Important Dates 
+## Important Dates and Evaluation 
 
-- First midterm:   **Oct 6, 2022**
-- Second midterm   **Nov 10, 2022** 
-- Final exam:      **Dec 16, 2022 - 2022,  08:00AM**
+- Homework assignments (due dates on MindTap)  (20%)
+- **Feb 27, 2023, Monday** - First Midterm  (20%)
+- **Apr 4,  2023, Monday** -  Second Midterm (25%) 
+- **May 4, 2023, Wednesday, 8:00AM** -  Final (30%)
+- Classroom participation (5%)
 
-#### Homework assignment deadlines  
-
-* Assignment 1:     **Oct 16, 2022** 
-* Assignment 2:     **Oct 30, 2022** 
-* Assignment 3:     **Nov 13, 2022** 
-* Assignment 4:     **Nov 27, 2022** 
-* Assignment 5:     **Dec 11, 2022** 
-
-
-### Evaluation
-
-- First Midterm:      20%
-- Second Midterm:     25%
-- Final Exam:         30%
-- Assignments + participation :        25%
 
 ### Software and Collaborative Work
 
@@ -77,23 +64,53 @@ Please go to [my calendar](https://calendly.com/oaltindag/sample-20min) and book
 When learning R, arguably the most important skill that you need to acquire is to be able to **Google** your problem. There is probably not a single R question that you have yet has not been answered on [Stack Overflow](https://stackoverflow.com/). 
   
 
-- **Github**: You will only use the very basic tools on [GitHub](https://github.com/), mainly downloading the course material, homework assignments, and follow the additional material that I post here. 
+- **Github**: I will post code and links on the [GitHub](https://github.com/) page of the course. 
 
-### Grading
+You **MUST** create an account on MindTap. This is a digital learning platform that hosts all the required course materials: the e-book of Wooldridge's Introductory Econometrics a Modern Approach, your homework assignments, practice questions, and your course videos. You can additionally purchase the hard copy of the textbook but it is not required. When you create an account on MindTap, please use your Bentley email. Please find more detailed information below about the registration on MindTap.    
 
-#### **High-stake assessments**  
 
-*  **2 Midterms** + **Final**: Constitute 75% of your final grade. All exams are **in-person** with dates indicated on the syllabus. If the classes become online, I will post the exams on **Black Board** and you will have a **24 hours** submission period. 
-          
+## Registration on MindTap 
 
-* You **MUST** attend the midterms and the final as there will be no make-up exams. The midterms and the final are not cumulative. If you miss or are likely to miss a **midterm** due to an emergency, please contact me as soon as possible. You will need to provide supporting documentation/verification of your absence. I will re-weight your final exam if you have a valid excuse.  If you miss the final exam due to an emergency, you will receive an **incomplete** for this course. **DO NOT** take this class if you know that you will not be able to attend the final exam.     
-    
-#### **Low-stake assessments**
+Course: EC 282-1
 
-* **Homework assignments:** The homework assignments are posted on the **GitHub** web page with the deadlines. Github is an eco-system for web development and version control using Git. You will only need to use it to download the course material and `issues` tabs that I post code blurbs and data.  The homework assignments can be completed in groups of **maximum two** students but each person should post separate answers through **Black Board**. **DO NOT** try to submit the homework assignments on last minute as the system will close after the deadline and I will not accept it. Do the best you can with these assignments, work consistently, do not free ride on your friends, and do not cheat. The data sets that each of you will receive are different so I will not tolerate if I see any copied/pasted answers.  
-     
-    
+Instructor: Onur Altindag
 
+This course requires an online homework platform called MindTap. Follow the instructions below to get started.
+
+Register for your MindTap Course
+
+1. Use the course registration link https://student.cengage.com/course-link/MTPPS53ZS79L
+
+2. Follow the instructions on screen to create your Cengage account and register for this MindTap course.
+
+3. Begin your temporary access* period.
+
+Need help? Visit the Cengage Start Strong Website (https://startstrong.cengage.com) for step-by-step instructions.
+
+*Temporary Access*: You can access your MindTap course until 5:00 AM (UTC) on 2/6/2023 for free. At the end of the temporary access period, you will be prompted to purchase access. Your work will be saved and will be available to you again once you’ve completed your purchase.
+
+NOTE: If the cost of your course materials is included in your tuition, you will not need to purchase access.
+
+MindTap Tips & Training Tools
+
+Learn more about navigating your MindTap course: (https://help.cengage.com/mindtap/mt-student/introduction.html)
+
+Technical Support & Troubleshooting
+
+Our US-based support team delivers answers and advice via 24/7 online chat, Twitter, live phone support (1-800-354-9706) and through support.cengage.com, which includes helpful articles, and tutorials.
+
+If you are having trouble loading MindTap, run the MindTap browser check (https://ng.cengage.com/static/browsercheck/index.html) to make sure your browser is compatible or refer to the MindTap System Requirements (https://help.cengage.com/mindtap/MindTap-System-Requirements.pdf). If MindTap isn’t loading, be sure to visit Techcheck (https://techcheck.cengage.com) to see if there is an outage.
+
+
+
+## Grading 
+
+You **MUST** attend all the midterms and the final as there will be no make-up exams in this course. 
+The midterms are **NOT** cumulative. If you miss or are likely to miss a midterm due to an emergency, please contact me as soon as possible.  You will need to provide supporting documentation/verification of your absence. I will re-weight your final exam accordingly if you have a valid excuse. Please note that family vacations or missing the school shuttle are not valid excuses. 
+
+The final exam **is** cumulative. If you miss the final exam due to an emergency, you will receive an incomplete for this course. Do not take this class if you know that you will not be able to attend the final exam. 
+
+You have **10 homework assignments**. The submission method is automated, and no submissions will be accepted after the deadline (even 5 minutes). There will be no exceptions if you fail to complete the assignment. You will obtain full credit if you correctly answer at least 70% of the questions. You have three attempts to answer each question and I will take the maximum for these attempts. You are encouraged to collaborate on homework tasks or to seek assistance from campus resources. 
     
 
 ### Academic Integrity 
@@ -159,73 +176,50 @@ Students are expected to attend classes synchronously despite potential time zon
 
 ### Tentative Schedule 
 
+* Introduction to the course, logistics, syllabus, expectations and pap-talk.
 
-**Weeks 1-2**  
-**Sep 6-15**    
+* Introduction to R.
+* **The Nature of Econometrics and Economic Data (Chapter 1)** 
 
-
-* **Introduction to the course, logistics, syllabus, expectations and pap-talk.**
-
-* **Applied research in economics,  Introduction to R.** 
-* *Videos*: [1. Starting out](https://www.youtube.com/watch?v=KQZtnZa70kE), [2. Basic R Programming](https://www.youtube.com/watch?v=KRjhoBSWz1o), [3. Manipulating data using dplyr](https://www.youtube.com/watch?v=32amn8jzTEQ&t=208s)  
-
-* **Random variables, sampling variation, sample mean, variance, distribution of random variables** 
-
-**Weeks 3-4**     
-**Sep 19-29** 
-
-* **Central limit theorem**
-* **Hypothesis testing concerning the sample mean and confidence intervals**
-* **Scatterplots, the sample covariance, and the sample correlation** 
-* *Readings:*: Chapter 3 of Stock and Watson: 1. Hypothesis Tests Concerning the Population Mean, 2. Confidence Intervals for the Population Mean 3. Comparing Means from Different Populations, 4. Scatter plots, the Sample Covariance, and the Sample Correlation.
-
-* **Bivariate OLS Model** 
-* *Videos:*[The Bivariate OLS]([https://www.youtube.com/watch?v=qcJGl0wxgaY&t=5s)
+* **The Simple Regression Model (Chapter 2)**
+* *Readings:* 
+    - Definition of the Simple Regression Model (2-1)
+    - Deriving the Ordinary Least Squares Estimates (2-2)
+    - Properties of OLS on Any Sample of Data (2-3) 
+    - Properties of OLS on Any Sample of Data (2-3) 
+    - Units of Measurement and Functional Form (2-4)
+    - Expected Values and Variances of the OLS Estimators (2-5) 
+    - Regression on a Binary Explanatory Variable (2-7)
 
 
-**Weeks 5-6**    
-**Oct 3-14** 
+* **Multiple Regression Analysis: Estimation (Chapter 3)**
+* *Readings* 
+    - Motivation for Multiple Regression (3-1)
+    - Mechanics and Interpretation of Ordinary Least Squares (3-2)
+    - The Expected Value of the OLS Estimators (3-3)
+    - The Variance of the OLS Estimators (3-4)
 
-* **Midterm I**
-* **OLS Prediction, Residuals, and Goodness of Fit**
-* **Estimate Uncertainty and Hypothesis Testing** 
+* **Multiple Regression Analysis: Inference (Chapter 4)**
+* *Readings* 
+    - Sampling Distributions of the OLS Estimators (4-1) 
+    - Testing Hypotheses about a Single Population Parameter: The t Test (4-2)
+    - Confidence Intervals (4-3)
+    - Testing Hypotheses about a Single Linear Combination of the Parameters (4-4)
+    - Testing Multiple Linear Restrictions: The F Test (4-5)
+    - Reporting Regression Results (4-6)
+    
+* **Multiple Regression Analysis with Qualitative Information (Chapter 7)**
 
-* *Videos:*[1. Regression Predictions and Residuals](https://www.youtube.com/watch?v=dstJjA8s9Do&t=4s), [2. Hyp. Testing Part 1](https://www.youtube.com/watch?v=QdtBxOJvO_E), [3. Hyp. Testing Part 2](https://www.youtube.com/watch?v=FY-Qwsk-zRM), [4. OLS in R](https://www.youtube.com/watch?v=rC-U8zaTlx4), [5. Hyp. Testing in R](https://www.youtube.com/watch?v=-J4zPwa6ZVw), 
+* *Note*: Depending on our pace, we may or may not have time to cover these topics.
 
-
-**Weeks 7-8**     
-**Oct 17-27**
-
-* **Endogeneity in Ordinary Least Squares** 
-* **Identification and Control Variables** 
-* *Videos:*[1. Endogeneity in OLS](https://www.youtube.com/watch?v=Vv1VKKKhS3Y), [2. Controlling for X](https://www.youtube.com/watch?v=Ba2Nhn4co88&t=62s), [3. Causal Diagrams](https://www.youtube.com/watch?v=bEVrJlTdQ98) 
-
-**Weeks 9-10**     
-**Oct 31-Nov 10**
-
-* **Multivariate Regression** 
-* **Research Presentation** 
-
-* **Midterm II** 
-* *Videos:* [1. Multivariate regression in R](https://www.youtube.com/watch?v=YvJE4aD7tr8)
+* *Readings* 
+    - Describing Qualitative Information (7-1)
+    - A Single Dummy Independent Variable (7-2)
+    - Using Dummy Variables for Multiple Categories (7-3)
+    - Interactions Involving Dummy Variables (7-4)
+    - A Binary Dependent Variable: The Linear Probability Model (7-5)
 
 
-**Weeks 11-12-13**    
-**Nov 14 - Nov 28**
-
-* **Binary and categorical variables** 
-
-* **Polynomials and Logarithms**
-
-* *Videos:* [1. Binary and categorical variables](https://www.youtube.com/watch?v=0ajSzAVOFmY), [2. Polynomials and Logarithms](https://www.youtube.com/watch?v=M7Tcp466hPw)
-
-**Weeks 13-14**    
-**Dec 3-Dec 12**
-
-* **Linear probability model**   
-
-* **Probit and Logit** 
-* *Videos:* [LPM, Probit, Logit](https://www.youtube.com/watch?v=FoQaJdT-1AI) 
 
 
 
