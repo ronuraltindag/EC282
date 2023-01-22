@@ -39,7 +39,7 @@ Importantly, you should understand the distinction between correlation and causa
 
 - instructor: Onur Altındağ
 - office: AAC 181 
-- zoom (office hours/classes): https://bentley.zoom.us/j/6857316344
+- zoom (office hours/classes): see Black Board 
 - email: oaltindag@bentley.edu 
 - web: https://www.onuraltindag.info/
 - office hours: https://calendly.com/oaltindag/
