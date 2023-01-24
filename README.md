@@ -53,7 +53,7 @@ Please go to [my calendar](https://calendly.com/oaltindag/sample-20min) and book
 
 - Homework assignments (due dates on MindTap)  (20%)
 - **Feb 27, 2023, Monday** - First Midterm  (20%)
-- **Apr 4,  2023, Monday** -  Second Midterm (25%) 
+- **Apr 3,  2023, Monday** -  Second Midterm (25%) 
 - **May 4, 2023, Wednesday, 8:00AM** -  Final (30%)
 - Classroom participation (5%)
 
