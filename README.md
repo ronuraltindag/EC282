@@ -6,7 +6,7 @@ output:
   word_document: default
 ---
 
-# EC282 SPRING 2023
+# EC282 SPRING 2024
 
 ## Syllabus 
 
@@ -32,14 +32,12 @@ Importantly, you should understand the distinction between correlation and causa
 * Understand the causal research design and its basic implementations. 
 * Understand the regression diagnostics to choose the most appropriate definition of predictors, outcome, and functional form.  
 
-## Class Information 
-### Contact
 
 ## Class Information 
 
 - instructor: Onur Altındağ
 - office: AAC 181 
-- zoom (office hours/classes): see Black Board 
+- zoom (office hours/classes): see Brightspace 
 - email: oaltindag@bentley.edu 
 - web: https://www.onuraltindag.info/
 - office hours: https://calendly.com/oaltindag/
