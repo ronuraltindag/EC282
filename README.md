@@ -1,10 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document:
-    df_print: paged
-  word_document: default
----
 
 # EC282 SPRING 2024
 
