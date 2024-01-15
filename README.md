@@ -12,9 +12,10 @@ output:
 
 ## Course description 
 
-Students studying business will learn about modern econometric analysis in this course. It offers resources for applying descriptive and regression analysis to deduce useful information from data. By the end of the semester, I hope that you will be comfortable using the **R** and **RStudio** interfaces, manipulating simple data, getting and analyzing sample statistics, and performing insightful regression analysis.
+In this course, students will delve into the realm of modern econometric analysis. The curriculum is designed to equip learners with tools for conducting both descriptive and regression analysis, turning raw data into meaningful insights. As the semester progresses, participants are expected to gain proficiency in using the **R** and **RStudio** platforms, managing basic data operations, extracting sample statistics, and executing regression analysis.
 
-Importantly, you should understand the distinction between correlation and causation, as well as when the former suggests the latter. Randomization for causality will be a major issue of debate. We will learn how to construct an experimental research, validate the design, and establish the prerequisites for a causal link. This course also intends to highlight the limits of empirical studies, with a particular emphasis on the randomization approach to causal inference.
+A key learning outcome is distinguishing between correlation and causation, and recognizing instances where correlation implies causation. The concept of randomization in establishing causality will be a central topic of discussion. We will explore the intricacies of designing experimental research, validating methodologies, and laying the groundwork for establishing causal relationships. Additionally, the course will shed light on the limitations inherent in empirical research, focusing especially on the role of randomization in causal inference.
+
 
 
 ### Knowledge and Skills
@@ -45,42 +46,38 @@ Importantly, you should understand the distinction between correlation and causa
 
 ### Office hours 
 
-Please go to [my calendar](https://calendly.com/oaltindag/sample-20min) and book a virtual office hour to meet me (20 minutes maximum). Email me if you need to talk to me urgently or there is no availability on my calendar. 
+Please go to [my calendar](https://calendly.com/oaltindag/office-hours-20-min) and book a virtual office hour to meet me (20 minutes maximum). Email me if you need to talk to me urgently or there is no availability on my calendar. 
 
 ## Important Dates and Evaluation 
 
 - Homework assignments (due dates on MindTap)  (20%)
-- **Feb 27, 2023, Monday** - First Midterm  (20%)
-- **Apr 3,  2023, Monday** -  Second Midterm (25%) 
-- **May 4, 2023, Wednesday, 8:00AM** -  Final (30%)
+- **Feb 26, 2024, Monday** - First Midterm  (20%)
+- **Apr 1,  2024, Monday** -  Second Midterm (25%) 
+- **May 6, 2024, Wednesday, 8:00AM** -  Final (30%)
 - Classroom participation (5%)
 
 
 ### Software and Collaborative Work
 
-- **R** and **RStudio**:  I assume that you have a basic familiarity with or expect your effort to gain familiarity throughout the semester. The instructions installation, some basic rules and best practices on coding are on this web page. Keep in mind that this course is **not** designed to teach you R and more than anything, the best way to learn programming is to actually work on assigned problems. 
-When learning R, arguably the most important skill that you need to acquire is to be able to **Google** your problem. There is probably not a single R question that you have yet has not been answered on [Stack Overflow](https://stackoverflow.com/). 
+- In our exploration of **R** and **RStudio**, it's expected that you either bring a basic understanding of these tools or are committed to developing this familiarity throughout the semester. Essential guidance on installation can be found on [GitHub](https://github.com/ronuraltindag/EC282). It's crucial to note that this course isn't primarily aimed at teaching R programming; instead, it emphasizes the practical application of R in solving assigned problems, which is often the most effective way to learn programming.
+
+A pivotal skill in mastering R is the ability to articulate your programming challenges clearly. Virtually every question you might encounter has likely been addressed on [Stack Overflow](https://stackoverflow.com/). Additionally, ChatGPT serves as an invaluable resource for refining and debugging your code, and for understanding unfamiliar code segments. A significant objective of this course is to teach you how to harness the power of AI in a productive manner.
+
   
 
-- **Github**: I will post code and links on the [GitHub](https://github.com/) page of the course. 
+- **Github**: I will post my lecture notes, code and links on the [GitHub](https://github.com/ronuraltindag/EC282) page of the course. 
 
 You **MUST** create an account on MindTap. This is a digital learning platform that hosts all the required course materials: the e-book of Wooldridge's Introductory Econometrics a Modern Approach, your homework assignments, practice questions, and your course videos. You can additionally purchase the hard copy of the textbook but it is not required. When you create an account on MindTap, please use your Bentley email. Please find more detailed information below about the registration on MindTap.    
-
-
-## Registration on MindTap 
 
 Course: EC 282-1
 
 Instructor: Onur Altindag
 
-This course requires an online homework platform called MindTap. Follow the instructions below to get started.
+This course requires an online learning platform called MindTap. Follow the instructions below to get started.
 
 Register for your MindTap Course
-
 1. Use the course registration link https://student.cengage.com/course-link/MTPPS53ZS79L
-
 2. Follow the instructions on screen to create your Cengage account and register for this MindTap course.
-
 3. Begin your temporary access* period.
 
 Need help? Visit the Cengage Start Strong Website (https://startstrong.cengage.com) for step-by-step instructions.
@@ -100,7 +97,6 @@ Our US-based support team delivers answers and advice via 24/7 online chat, Twit
 If you are having trouble loading MindTap, run the MindTap browser check (https://ng.cengage.com/static/browsercheck/index.html) to make sure your browser is compatible or refer to the MindTap System Requirements (https://help.cengage.com/mindtap/MindTap-System-Requirements.pdf). If MindTap isn’t loading, be sure to visit Techcheck (https://techcheck.cengage.com) to see if there is an outage.
 
 
-
 ## Grading 
 
 You **MUST** attend all the midterms and the final as there will be no make-up exams in this course. 
@@ -111,14 +107,14 @@ The final exam **is** cumulative. If you miss the final exam due to an emergency
 You have **10 homework assignments**. The submission method is automated, and no submissions will be accepted after the deadline (even 5 minutes). There will be no exceptions if you fail to complete the assignment. You will obtain full credit if you correctly answer at least 70% of the questions. You have three attempts to answer each question and I will take the maximum for these attempts. You are encouraged to collaborate on homework tasks or to seek assistance from campus resources. 
     
 
-### Academic Integrity 
+## Academic Integrity 
 
 Learning is a privilege that demands responsibility. At Bentley, students and faculty are members of an academic community that supports integrity both inside and outside the classroom. The expectation at Bentley is that students will take advantage of the opportunity for intellectual development and, in doing so, will conduct themselves in a manner consistent with the standards of academic integrity. When these standards are violated or compromised, individuals and the entire Bentley community suffer. Students who engage in acts of academic dishonesty not only face university censure but also may harm their future educational and employment opportunities. In other words, don’t bring unauthorized materials into exams, don’t plagiarize someone else’s work, and make sure that your collaborations are conducted in accordance with university and course policy.  
 
-All students have access to Bentley’s academic integrity policy on Blackboard (via the Academic Integrity course page) and the Undergraduate Student Handbook/Graduate Catalog. The best way to avoid a problem is to consult with your instructor before taking any action that might constitute a violation. 
+All students have access to Bentley’s academic integrity policy on school's web page and the Undergraduate Student Handbook/Graduate Catalog. The best way to avoid a problem is to consult with your instructor before taking any action that might constitute a violation. 
 
 
-### Diversity Inclusion and Support 
+## Diversity Inclusion and Support 
 
 **Statement of Diversity and Inclusion**
 
@@ -143,19 +139,7 @@ The Undergraduate Academic Services (UAS) Peer Tutoring program offers online on
 
 **The Howard A. Winer ‘58 Lab for Economics, Accounting and Finance (LEAF)** 
 
-The LEAF will open on Sunday September 19, 2021 for the semester.  The LEAF’s hours of operation will be Sundays from 5:00--9:00 and Mondays through Thursdays from 12:30--9:00. For the fall 2021 semester, the LEAF tutoring will be done both in person and remotely using Zoom.  Please use the instructions below to access additional LEAF information.  
-
-
-1. [Access SharePoint site](https://bentleyedu.sharepoint.com/sites/LEAFTutoringStudentInformation) using your Bentley credentials.
-      
-2. Click on the Documents at the top of the page, find your tutor by selecting the document for your class (either Accounting, Economics, Finance, or GB). 
-      
-3. Open the document for LEAF Tutor Schedule and Zoom Information.  Find your tutor on the table, note the time he/she tutors, and identify whether he/she is tutoring in the LEAF or using Zoom.  If the tutoring is being done via Zoom, identify their LEAF number, and then find their LEAF number on the list of Zoom Links at the top of the page.
-      
-4. If the tutoring in being done in the LEAF, the LEAF is in Lindsay 21.  If the tutoring is being done via Zoom, log in to the identified Zoom Session at the time, which your tutor is available for your course. 
-      
-For additional information, visit:  https://www.bentley.edu/centers/leaf
-
+Please visit https://www.bentley.edu/centers/leaf for more information. 
 
 
 ### Online Attendance 
@@ -164,7 +148,7 @@ All students must attend the in-person classes. If you join the class online due
 
 **Zoom Protocol and Online Attendance** 
 
-Students **must** join classes through their Bentley Zoom account. Go to [bentley.zoom.us](https://bentley.zoom.us) and enter the course meeting number to join the session. The zoom link is included on Black Board course page. 
+Students **must** join classes through their Bentley Zoom account. Go to [bentley.zoom.us](https://bentley.zoom.us) and enter the course meeting number to join the session. The zoom link is included on Brightspace course page. 
 
 I expect you to attend class with a functioning microphone and camera. Cameras should be on to effectively engage in class and participate throughout the course. If you have an impediment to keeping your camera on, please let me know so that we can work to arrive at a mutually agreeable solution.
 
