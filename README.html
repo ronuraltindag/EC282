@@ -111,6 +111,102 @@ aside > *:last-child {
     pointer-events: none;
 }
 </style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
         
         </head>
         <body class="vscode-body vscode-light">
@@ -183,7 +279,7 @@ aside > *:last-child {
 <p>You <strong>MUST</strong> attend all the midterms and the final as there will be no make-up exams in this course.
 The midterms are <strong>NOT</strong> cumulative. If you miss or are likely to miss a midterm due to an emergency, please contact me as soon as possible.  You will need to provide supporting documentation/verification of your absence. I will re-weight your final exam accordingly if you have a valid excuse. Please note that family vacations or missing the school shuttle are not valid excuses.</p>
 <p>The final exam <strong>is</strong> cumulative. If you miss the final exam due to an emergency, you will receive an incomplete for this course. Do not take this class if you know that you will not be able to attend the final exam.</p>
-<p>You have <strong>10 homework assignments</strong>. The submission method is automated, and no submissions will be accepted after the deadline (even 5 minutes). There will be no exceptions if you fail to complete the assignment. You will obtain full credit if you correctly answer at least 70% of the questions. You have three attempts to answer each question and I will take the maximum for these attempts. You are encouraged to collaborate on homework tasks or to seek assistance from campus resources.</p>
+<p>You have <strong>12 homework assignments</strong> in total, and you are allowed to miss up to <strong>2</strong> without any penalty. The submission process is automated, and late submissions will not be accepted after the deadline, not even by 5 minutes. No exceptions will be made if you fail to complete an assignment. You will receive full credit for an assignment if you submit it and correctly answer at least 70% of the questions. Each question can be attempted up to three times, and the highest score from these attempts will be counted. Collaboration on homework tasks is encouraged, as is seeking assistance from campus resources.</p>
 <h2 id="academic-integrity">Academic Integrity</h2>
 <p>Learning is a privilege that demands responsibility. At Bentley, students and faculty are members of an academic community that supports integrity both inside and outside the classroom. The expectation at Bentley is that students will take advantage of the opportunity for intellectual development and, in doing so, will conduct themselves in a manner consistent with the standards of academic integrity. When these standards are violated or compromised, individuals and the entire Bentley community suffer. Students who engage in acts of academic dishonesty not only face university censure but also may harm their future educational and employment opportunities. In other words, don’t bring unauthorized materials into exams, don’t plagiarize someone else’s work, and make sure that your collaborations are conducted in accordance with university and course policy.</p>
 <p>All students have access to Bentley’s academic integrity policy on school's web page and the Undergraduate Student Handbook/Graduate Catalog. The best way to avoid a problem is to consult with your instructor before taking any action that might constitute a violation.</p>

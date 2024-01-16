@@ -97,8 +97,8 @@ The midterms are **NOT** cumulative. If you miss or are likely to miss a midterm
 
 The final exam **is** cumulative. If you miss the final exam due to an emergency, you will receive an incomplete for this course. Do not take this class if you know that you will not be able to attend the final exam. 
 
-You have **10 homework assignments**. The submission method is automated, and no submissions will be accepted after the deadline (even 5 minutes). There will be no exceptions if you fail to complete the assignment. You will obtain full credit if you correctly answer at least 70% of the questions. You have three attempts to answer each question and I will take the maximum for these attempts. You are encouraged to collaborate on homework tasks or to seek assistance from campus resources. 
-    
+You have **12 homework assignments** in total, and you are allowed to miss up to **2** without any penalty. The submission process is automated, and late submissions will not be accepted after the deadline, not even by 5 minutes. No exceptions will be made if you fail to complete an assignment. You will receive full credit for an assignment if you submit it and correctly answer at least 70% of the questions. Each question can be attempted up to three times, and the highest score from these attempts will be counted. Collaboration on homework tasks is encouraged, as is seeking assistance from campus resources.
+
 
 ## Academic Integrity 
 
