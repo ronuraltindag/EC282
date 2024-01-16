@@ -46,7 +46,7 @@ Please go to [my calendar](https://calendly.com/oaltindag/office-hours-20-min) a
 - Homework assignments (due dates on MindTap)  (20%)
 - **Feb 26, 2024, Monday** - First Midterm  (20%)
 - **Apr 1,  2024, Monday** -  Second Midterm (25%) 
-- **May 6, 2024, Wednesday, 8:00AM** -  Final (30%)
+- **May 6, 2024, Monday, 8:00AM** -  Final (30%)
 - Classroom participation (5%)
 
 
