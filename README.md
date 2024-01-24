@@ -62,20 +62,20 @@ A pivotal skill in mastering R is the ability to articulate your programming cha
 
 You **MUST** create an account on MindTap. This is a digital learning platform that hosts all the required course materials: the e-book of Wooldridge's Introductory Econometrics a Modern Approach, your homework assignments, practice questions, and your course videos. You can additionally purchase the hard copy of the textbook but it is not required. When you create an account on MindTap, please use your Bentley email. Please find more detailed information below about the registration on MindTap.    
 
-Course: EC 282-1
+Course: EC282 Spring 2024 - 1
 
 Instructor: Onur Altindag
 
 This course requires an online learning platform called MindTap. Follow the instructions below to get started.
 
 Register for your MindTap Course
-1. Use the course registration link https://student.cengage.com/course-link/MTPPS53ZS79L
+1. Use the course registration link https://student.cengage.com/course-link/MTPN3HM38RBK
 2. Follow the instructions on screen to create your Cengage account and register for this MindTap course.
 3. Begin your temporary access* period.
 
 Need help? Visit the Cengage Start Strong Website (https://startstrong.cengage.com) for step-by-step instructions.
 
-*Temporary Access*: You can access your MindTap course until 5:00 AM (UTC) on 2/6/2023 for free. At the end of the temporary access period, you will be prompted to purchase access. Your work will be saved and will be available to you again once you’ve completed your purchase.
+*Temporary Access: You can access your MindTap course until 5:00 AM (UTC) on 1/29/2024 for free. At the end of the temporary access period, you will be prompted to purchase access. Your work will be saved and will be available to you again once you’ve completed your purchase.
 
 NOTE: If the cost of your course materials is included in your tuition, you will not need to purchase access.
 
